@@ -1,4 +1,6 @@
 streamlit
-pandas
 numpy
+pandas
 plotly
+scikit-learn
+imbalanced-learn
